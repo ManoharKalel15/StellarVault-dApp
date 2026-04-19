@@ -95,6 +95,12 @@ The app will be available at `http://localhost:5173`
 
 ## 🪙 Smart Contracts
 
+### 🌐 Deployed Addresses (Testnet)
+
+- **SVT Token Issuer:** [`GBI67VYGWZPT6QLX6SIDKUJFPDMBEAWTD2A2EKHLOR53UGEKGIRXGMFG`](https://stellar.expert/explorer/testnet/asset/SVT-GBI67VYGWZPT6QLX6SIDKUJFPDMBEAWTD2A2EKHLOR53UGEKGIRXGMFG)
+- **Liquidity Pool ID:** [`53f9129e45ce988281ead043f8fcaf488956d6c049c9ac33cb31f24c85c43301`](https://stellar.expert/explorer/testnet/liquidity-pool/53f9129e45ce988281ead043f8fcaf488956d6c049c9ac33cb31f24c85c43301)
+- **Deployer Account:** [`GBV6GP2INFWDWAKPMWQKG2H4JFZ3GYDZRG2X2KYT6Z3DXV6IB6LGLQBO`](https://stellar.expert/explorer/testnet/account/GBV6GP2INFWDWAKPMWQKG2H4JFZ3GYDZRG2X2KYT6Z3DXV6IB6LGLQBO)
+
 ### Token Contract (SVT)
 
 The StellarVault Token is a custom Soroban token with:
